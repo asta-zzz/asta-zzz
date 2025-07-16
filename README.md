@@ -11,17 +11,9 @@
 ### 👀 Who Am I?
 
 - 🌱 Currently learning Machine Learning, Deep Learning, and AI
-- 📚 Passionate about building models that actually *think*
+- 📚 Passionate about building models that actually _think_
 - 🎓 Former web dev, now fully shifting to data-driven world
 - 🧘 Reading Stoic philosophy & leveling up mindset daily
-
----
-
-### 🧪 Incoming Projects
-
-- `iris-experiment`: Classic ML classification, with extended model comparisons
-- `ml-roadmap`: My learning journey from regression to neural networks
-- `dl-playground`: Experiments with PyTorch & real-world datasets
 
 ---
 
@@ -48,10 +40,17 @@
 
 ---
 
-<!-- Optional GitHub stats -->
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula" />
-</p>
--->
+### GITHUB STAT
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=asta-zzz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asta-zzz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+---
+### PACMAN :v
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asta-zzz/asta-zzz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asta-zzz/asta-zzz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/asta-zzz/asta-zzz/output/pacman-contribution-graph.svg">
+</picture>
