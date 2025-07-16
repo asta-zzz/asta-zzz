@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Astazzz 🧠</h1>
+<h1 align="center">Hey, I'm Asta 🧠</h1>
 
 <p align="center">
   ML & AI Enthusiast | Coding Learner | Stoic Explorer
