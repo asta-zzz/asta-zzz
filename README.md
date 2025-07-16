@@ -1,6 +1,5 @@
 ![readmebox](https://github.com/user-attachments/assets/78d39ff7-6770-409f-86e2-3f50cc892743)
 
-<h1 align="center">Hey, I'm Asta 🧠</h1>
 
 <p align="center">
   ML & AI Enthusiast | Coding Learner | Stoic Explorer
